@@ -1,0 +1,342 @@
+[
+  {
+    "file": "May statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-05-16",
+    "post_date": "2025-05-18",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 12.38,
+    "raw_line": "May 16 May 18 PAYMENT THANK YOU/PAIEMENT MERCI 12.38"
+  },
+  {
+    "file": "May statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-05-18",
+    "post_date": "2025-05-19",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 4500.0,
+    "raw_line": "May 18 May 19 PAYMENT THANK YOU/PAIEMENT MERCI 4,500.00"
+  },
+  {
+    "file": "May statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-05-21",
+    "post_date": "2025-05-24",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 58.34,
+    "raw_line": "May 21 May 24 PAYMENT THANK YOU/PAIEMENT MERCI 58.34"
+  },
+  {
+    "file": "May statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-05-22",
+    "post_date": "2025-05-25",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 630.0,
+    "raw_line": "May 22 May 25 PAYMENT THANK YOU/PAIEMENT MERCI 630.00"
+  },
+  {
+    "file": "May statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-06-10",
+    "post_date": "2025-06-12",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 53.74,
+    "raw_line": "Jun 10 Jun 12 PAYMENT THANK YOU/PAIEMENT MERCI 53.74"
+  },
+  {
+    "file": "May statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-05-16",
+    "post_date": "2025-05-17",
+    "description": "NORTH GARDEN RESTAURAN WINNIPEG MB Restaurants",
+    "category": "Restaurant",
+    "amount": 12.38,
+    "raw_line": "May 16 May 17 NORTH GARDEN RESTAURAN WINNIPEG MB Restaurants 12.38"
+  },
+  {
+    "file": "May statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-05-19",
+    "post_date": "2025-05-20",
+    "description": "NORTH GARDEN RESTAURAN WINNIPEG MB Restaurants",
+    "category": "Restaurant",
+    "amount": 12.38,
+    "raw_line": "May 19 May 20 NORTH GARDEN RESTAURAN WINNIPEG MB Restaurants 12.38"
+  },
+  {
+    "file": "May statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-05-29",
+    "post_date": "2025-06-01",
+    "description": "Ý REAL CDN. SUPERSTORE # WINNIPEG MB Retail and Grocery",
+    "category": "Grocery",
+    "amount": 30.9,
+    "raw_line": "May 29 Jun 01 Ý REAL CDN. SUPERSTORE # WINNIPEG MB Retail and Grocery 30.90"
+  },
+  {
+    "file": "June statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-06-13",
+    "post_date": "2025-06-16",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 0.31,
+    "raw_line": "Jun 13 Jun 16 PAYMENT THANK YOU/PAIEMENT MERCI 0.31"
+  },
+  {
+    "file": "June statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-06-17",
+    "post_date": "2025-06-19",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 20.0,
+    "raw_line": "Jun 17 Jun 19 PAYMENT THANK YOU/PAIEMENT MERCI 20.00"
+  },
+  {
+    "file": "June statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-06-21",
+    "post_date": "2025-06-23",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 500.0,
+    "raw_line": "Jun 21 Jun 23 PAYMENT THANK YOU/PAIEMENT MERCI 500.00"
+  },
+  {
+    "file": "June statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-06-28",
+    "post_date": "2025-06-30",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 19.94,
+    "raw_line": "Jun 28 Jun 30 PAYMENT THANK YOU/PAIEMENT MERCI 19.94"
+  },
+  {
+    "file": "June statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-06-30",
+    "post_date": "2025-07-02",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 25.0,
+    "raw_line": "Jun 30 Jul 02 PAYMENT THANK YOU/PAIEMENT MERCI 25.00"
+  },
+  {
+    "file": "June statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-07-03",
+    "post_date": "2025-07-06",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 285.0,
+    "raw_line": "Jul 03 Jul 06 PAYMENT THANK YOU/PAIEMENT MERCI 285.00"
+  },
+  {
+    "file": "June statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-07-04",
+    "post_date": "2025-07-06",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 25.0,
+    "raw_line": "Jul 04 Jul 06 PAYMENT THANK YOU/PAIEMENT MERCI 25.00"
+  },
+  {
+    "file": "June statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-07-06",
+    "post_date": "2025-07-08",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 48.0,
+    "raw_line": "Jul 06 Jul 08 PAYMENT THANK YOU/PAIEMENT MERCI 48.00"
+  },
+  {
+    "file": "June statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-06-17",
+    "post_date": "2025-06-18",
+    "description": "UNITED WAY OF WINNIPEG WINNIPEG MB Personal and Household Expenses",
+    "category": "Other",
+    "amount": 20.0,
+    "raw_line": "Jun 17 Jun 18 UNITED WAY OF WINNIPEG WINNIPEG MB Personal and Household Expenses 20.00"
+  },
+  {
+    "file": "June statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-06-24",
+    "post_date": "2025-06-25",
+    "description": "CASH ADV/AVANCE DE FONDS-La Havana Foreign Currency Transactions",
+    "category": "Transfer/Cash",
+    "amount": 484.94,
+    "raw_line": "Jun 24 Jun 25 CASH ADV/AVANCE DE FONDS-La Havana Foreign Currency Transactions 484.94"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-07-14",
+    "post_date": "2025-07-16",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 33.97,
+    "raw_line": "Jul 14 Jul 16 PAYMENT THANK YOU/PAIEMENT MERCI 33.97"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-07-23",
+    "post_date": "2025-07-26",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 1200.0,
+    "raw_line": "Jul 23 Jul 26 PAYMENT THANK YOU/PAIEMENT MERCI 1,200.00"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-07-30",
+    "post_date": "2025-08-03",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 1200.0,
+    "raw_line": "Jul 30 Aug 03 PAYMENT THANK YOU/PAIEMENT MERCI 1,200.00"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-08-09",
+    "post_date": "2025-08-11",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 223.47,
+    "raw_line": "Aug 09 Aug 11 PAYMENT THANK YOU/PAIEMENT MERCI 223.47"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-08-10",
+    "post_date": "2025-08-11",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 9.65,
+    "raw_line": "Aug 10 Aug 11 PAYMENT THANK YOU/PAIEMENT MERCI 9.65"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-08-13",
+    "post_date": "2025-08-13",
+    "description": "Aug13 CASH ADVANCES 22.99%",
+    "category": "Transfer/Cash",
+    "amount": 0.01,
+    "raw_line": "Aug 13 Aug13 CASH ADVANCES 22.99% 0.01"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-07-23",
+    "post_date": "2025-07-26",
+    "description": "SAI CONFERENCES THESAI.ORG DE Foreign Currency Transactions",
+    "category": "Other",
+    "amount": 1019.41,
+    "raw_line": "Jul 23 Jul 26 SAI CONFERENCES THESAI.ORG DE Foreign Currency Transactions 1,019.41"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-07-23",
+    "post_date": "2025-07-26",
+    "description": "DOLLARAMA # 503 WINNIPEG MB Retail and Grocery",
+    "category": "Grocery",
+    "amount": 1.13,
+    "raw_line": "Jul 23 Jul 26 DOLLARAMA # 503 WINNIPEG MB Retail and Grocery 1.13"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-08-06",
+    "post_date": "2025-08-07",
+    "description": "TIM HORTONS #2796 WINNIPEG MB Restaurants",
+    "category": "Restaurant",
+    "amount": 1.96,
+    "raw_line": "Aug 06 Aug 07 TIM HORTONS #2796 WINNIPEG MB Restaurants 1.96"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-08-06",
+    "post_date": "2025-08-07",
+    "description": "TIM HORTONS #2796 WINNIPEG MB Restaurants",
+    "category": "Restaurant",
+    "amount": 1.96,
+    "raw_line": "Aug 06 Aug 07 TIM HORTONS #2796 WINNIPEG MB Restaurants 1.96"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-08-13",
+    "post_date": "2025-08-13",
+    "description": "CASH BACK AWARDED",
+    "category": "Other",
+    "amount": -102.68,
+    "raw_line": "Aug 13 Aug 13 CASH BACK AWARDED -102.68"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-07-14",
+    "post_date": "2025-07-15",
+    "description": "RECARGASA C *33963657 017868710133 Foreign Currency Transactions",
+    "category": "Gas",
+    "amount": 33.97,
+    "raw_line": "Jul 14 Jul 15 RECARGASA C *33963657 017868710133 Foreign Currency Transactions 33.97"
+  },
+  {
+    "file": "July statement period.pdf",
+    "page": 3,
+    "transaction_date": "2025-08-05",
+    "post_date": "2025-08-07",
+    "description": "CASH METROPOLITANO S.309 LA HABANA, CU Foreign Currency Transactions",
+    "category": "Other",
+    "amount": 1233.01,
+    "raw_line": "Aug 05 Aug 07 CASH METROPOLITANO S.309 LA HABANA, CU Foreign Currency Transactions 1,233.01"
+  },
+  {
+    "file": "August statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-08-24",
+    "post_date": "2025-08-27",
+    "description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "category": "Payment",
+    "amount": 81.06,
+    "raw_line": "Aug 24 Aug 27 PAYMENT THANK YOU/PAIEMENT MERCI 81.06"
+  },
+  {
+    "file": "August statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-08-22",
+    "post_date": "2025-08-24",
+    "description": "Ý REAL CDN. SUPERSTORE # WINNIPEG MB Retail and Grocery",
+    "category": "Grocery",
+    "amount": 91.26,
+    "raw_line": "Aug 22 Aug 24 Ý REAL CDN. SUPERSTORE # WINNIPEG MB Retail and Grocery 91.26"
+  },
+  {
+    "file": "August statement period.pdf",
+    "page": 2,
+    "transaction_date": "2025-08-22",
+    "post_date": "2025-08-27",
+    "description": "Ý SAFEWAY #4847 WINNIPEG MB Retail and Grocery",
+    "category": "Grocery",
+    "amount": 32.47,
+    "raw_line": "Aug 22 Aug 27 Ý SAFEWAY #4847 WINNIPEG MB Retail and Grocery 32.47"
+  }
+]
